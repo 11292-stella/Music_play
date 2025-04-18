@@ -9,8 +9,8 @@ const MusicBar = function () {
 
   return (
     <Button
-      variant="light"
-      className=" music-bar d-flex align-items-center justify-content-between p-3 rounded-5 shadow-lg"
+      variant="ligth"
+      className="w-100 music-bar d-flex align-items-center justify-content-between p-3 rounded-5 shadow-lg"
       style={{ height: "80px" }}
     >
       <div className="d-flex align-items-center gap-3">

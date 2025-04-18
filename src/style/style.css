@@ -25,11 +25,14 @@ body {
 }
 .music-bar {
   position: fixed;
-  bottom: 20px; /* o quanto basta per lasciare il footer visibile */
-  left: 50%;
-  transform: translateX(-50%);
-  width: 90%;
-  z-index: 1000;
+  bottom: 30px;
+  left: 0;
+  width: 100%;
+  background-color: #000000;
+  color: white;
+  padding: 10px;
+  z-index: 999;
+  width: 80%;
 }
 
 .others-btn {

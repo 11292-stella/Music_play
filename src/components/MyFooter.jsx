@@ -14,7 +14,6 @@ const MyFooter = function () {
               Condizioni dei servizi internet | Apple Music e privacy | Avviso
               sui cookie | Supporto | Feedback
             </p>
-            <MusicBar />
           </Col>
         </Row>
       </Container>
