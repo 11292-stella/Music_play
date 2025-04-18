@@ -5,6 +5,7 @@ import FirstCards from "./components/FirstCards"
 import QueenCards from "./components/QueenCards"
 import "./style/style.css"
 import OthersCards from "./components/OthersCards"
+import MusicBar from "./components/MusicBar"
 
 function App() {
   return (
@@ -17,7 +18,10 @@ function App() {
 
         <QueenCards />
         <OthersCards />
+
         <MyFooter />
+
+        <MusicBar />
       </div>
     </>
   )
